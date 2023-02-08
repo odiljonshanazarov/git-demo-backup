@@ -1,3 +1,0 @@
-# git-demo
-
-some content
